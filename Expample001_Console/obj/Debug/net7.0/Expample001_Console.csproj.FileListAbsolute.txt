@@ -1,0 +1,15 @@
+C:\Users\Fifa\Examples\Expample001_Console\bin\Debug\net7.0\Expample001_Console.exe
+C:\Users\Fifa\Examples\Expample001_Console\bin\Debug\net7.0\Expample001_Console.deps.json
+C:\Users\Fifa\Examples\Expample001_Console\bin\Debug\net7.0\Expample001_Console.runtimeconfig.json
+C:\Users\Fifa\Examples\Expample001_Console\bin\Debug\net7.0\Expample001_Console.dll
+C:\Users\Fifa\Examples\Expample001_Console\bin\Debug\net7.0\Expample001_Console.pdb
+C:\Users\Fifa\Examples\Expample001_Console\obj\Debug\net7.0\Expample001_Console.csproj.AssemblyReference.cache
+C:\Users\Fifa\Examples\Expample001_Console\obj\Debug\net7.0\Expample001_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fifa\Examples\Expample001_Console\obj\Debug\net7.0\Expample001_Console.AssemblyInfoInputs.cache
+C:\Users\Fifa\Examples\Expample001_Console\obj\Debug\net7.0\Expample001_Console.AssemblyInfo.cs
+C:\Users\Fifa\Examples\Expample001_Console\obj\Debug\net7.0\Expample001_Console.csproj.CoreCompileInputs.cache
+C:\Users\Fifa\Examples\Expample001_Console\obj\Debug\net7.0\Expample001_Console.dll
+C:\Users\Fifa\Examples\Expample001_Console\obj\Debug\net7.0\refint\Expample001_Console.dll
+C:\Users\Fifa\Examples\Expample001_Console\obj\Debug\net7.0\Expample001_Console.pdb
+C:\Users\Fifa\Examples\Expample001_Console\obj\Debug\net7.0\Expample001_Console.genruntimeconfig.cache
+C:\Users\Fifa\Examples\Expample001_Console\obj\Debug\net7.0\ref\Expample001_Console.dll
